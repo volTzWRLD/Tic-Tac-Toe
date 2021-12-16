@@ -7,7 +7,7 @@
   
   
   <ul><li><h2>Page</h2></li>
-  <li>&nbsp<a href="https://voltzwrld.github.io/Tic-Tac-Toe-/">Game TicTacToe</a>
+  <li>&nbsp<a href="https://voltzwrld.github.io/Tic-Tac-Toe/">Game TicTacToe</a>
    </ul>
   
   <br>
